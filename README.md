@@ -1,7 +1,9 @@
 # Modified-content-in-u8x8_d_st75256.c-of-U8g2-library-of-Oli-Kraus
 
-This files contents modified code from line 369. The file init ST75161 instead of ST75256 to drive circle display Winstar WO128128A2-TFH#
+This files contents modified code from line 369 in teh origin file. The file init ST75161 instead of ST75256 to drive circle display Winstar WO128128A2-TFH#
 
+
+# Modification:
 /*=============================================*/
 /* WO256X128, https://github.com/olikraus/u8g2/issues/891  */
 
@@ -113,3 +115,5 @@ static const uint8_t u8x8_d_st75256_wo256x128_init_seq[] = {
   U8X8_END_TRANSFER(),             	/* disable chip */
   U8X8_END()             			/* end of sequence */
 };
+
+
