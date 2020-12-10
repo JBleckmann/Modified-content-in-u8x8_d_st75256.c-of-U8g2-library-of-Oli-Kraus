@@ -7,7 +7,7 @@
 /*=============================================*/
 /* WO256X128, https://github.com/olikraus/u8g2/issues/891  */
 
-static const u8x8_display_info_t u8x8_st75256_wo256x128_display_info =
+$ static const u8x8_display_info_t u8x8_st75256_wo256x128_display_info =
 {                                     // Modified for ST75161 Winstar WO128128A2TFH#
   /* chip_enable_level = */ 0,
   /* chip_disable_level = */ 1,
