@@ -9,7 +9,8 @@ The Winstar WO128128A2-TFH# offers 3 options for interface, 8080, I2C, SPI. Belo
 
 ![Wiring for SPI](https://user-images.githubusercontent.com/32862272/101778754-91f33b00-3af4-11eb-9dfc-77744721851d.PNG)
 
-Interface selection pins on board all to Low 
+Interface selection pins on board all to Low
+
 ![Interface selection spec](https://user-images.githubusercontent.com/32862272/101779084-147bfa80-3af5-11eb-9717-3faac550d822.PNG)
 
 ![Interface selection board](https://user-images.githubusercontent.com/32862272/101778998-f7472c00-3af4-11eb-84ce-9b50d19d50a5.PNG)
